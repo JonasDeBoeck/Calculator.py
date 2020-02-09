@@ -10,7 +10,7 @@ root = Tk()
 root.title('Calculator')
 
 #Input veld maken
-veld = Entry(root, width=35)
+veld = Entry(root, width=40)
 
 #Voeg nummer toe aan veld
 def addNumber(number):
